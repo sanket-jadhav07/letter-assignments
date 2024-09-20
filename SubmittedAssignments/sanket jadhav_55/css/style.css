@@ -62,7 +62,7 @@ body .letter-wrapper .rectangle-with-semicircle::before {
   width: 10mm; /* Diameter of the semicircle */
   height: 10mm; /* Height of the rectangle */
   background-color: white; /* Color matching rectangle */
-  border-top-right-radius: 156px; /* Adjust radius to create semicircle */
+  border-top-right-radius: 117pt; /* Adjust radius to create semicircle */
   transform: translateX(40%) rotate(225deg); /* Rotate and position correctly */
 }
 
@@ -266,7 +266,7 @@ body .letter-wrapper .letter-content .letter-header .letter-org-address-icon {
   right: 63.3mm;
   top: 44mm;
   color: white !important;
-  font-size: 15px !important;
+  font-size: 11.25pt!important;
 }
 
 body .letter-wrapper .letter-content .letter-header .letter-org-address {
@@ -306,7 +306,7 @@ body .letter-wrapper .letter-content .letter-body .letter-body-sign {
 }
 
 body .letter-wrapper .letter-content .letter-body .letter-body-sign  .letter-body-sign-div {
-  bottom: 142px;
+  bottom: 106.5pt;
   left: 9mm;
   width: 34mm;
   height: 0.5mm;

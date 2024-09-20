@@ -64,14 +64,14 @@ body .letter-wrapper .tri1{
 }
 body .letter-wrapper .tri2{
   background-image: linear-gradient(to bottom, #416a6e57, #ade4ed);
-  /* border-bottom-right-radius: 300px; */
+
   position: absolute;
   right: -6.085mm;
   top: -49.212mm;
   height: 86mm;
   width: 58mm;
   background-color: #2ec2c2;
-  /* border-top-right-radius: 616px; */
+  
   transform: rotateZ(-63deg);
 }
 body .letter-wrapper .tri3{
@@ -147,9 +147,9 @@ body .letter-wrapper .letter-content header .letter-org-logo img{
   justify-content: flex-end;
   align-items: center;
   gap: 3.968mm;
-  /* line-height: 60px; */
+
   /* margin-right: 16mm; */
-  font-size: 20px;
+  font-size: 15pt;
 }
 .container i{
   color: rgb(62, 157, 168);
