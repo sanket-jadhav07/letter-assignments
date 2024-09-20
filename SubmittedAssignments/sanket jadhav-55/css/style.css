@@ -58,7 +58,7 @@ body .letter-wrapper .rectangle-with-semicircle::before {
   content: "";
   position: absolute;
   top: 2mm;
-  right: -5px; /* Adjust to control the position of the semicircle */
+  right: -1.322mm; /* Adjust to control the position of the semicircle */
   width: 10mm; /* Diameter of the semicircle */
   height: 10mm; /* Height of the rectangle */
   background-color: white; /* Color matching rectangle */
