@@ -219,3 +219,63 @@ body .letter-wrapper .letter-content .letter-body-sign p{
 .margin-top{
   margin-top: -5.291mm;
 }
+
+body .letter-wrapper .letter-content .letter-footer {
+  position: absolute;
+  left: 0mm;
+  top: 256mm;
+  width: 100%;
+  height: 35mm;
+}
+body .letter-wrapper .letter-content .letter-footer .fa {
+  width: 7mm;
+  height: 7mm;
+  border-radius: 50%;
+  padding: 1mm;
+  margin-right: 3mm;
+  background-color: #43a9bb;
+  text-align: center;
+  font-size: 12pt;
+}
+body .letter-wrapper .letter-content .letter-footer .letter-org-website {
+  position: absolute;
+  left: 102mm;
+  top: -1mm;
+  width: auto;
+  height: auto;
+  margin-left: 15mm;
+  margin-right: 15mm;
+  font-size: 20pt;
+  font-weight: bold;
+  text-shadow: 0.2mm 0.2mm white;
+}
+body .letter-wrapper .letter-content .letter-footer .letter-org-phone {
+  position: absolute;
+  left: 141mm;
+  top: -61mm;
+  width: 40%;
+  height: auto;
+  margin-left: 15mm;
+  margin-right: 15mm;
+  font-size: 13pt;
+}
+body .letter-wrapper .letter-content .letter-footer .letter-org-email {
+  position: absolute;
+  left: 141mm;
+  top: -49mm;
+  width: 87mm;
+  height: auto;
+  margin-left: 15mm;
+  margin-right: 15mm;
+  font-size: 13pt;
+}
+body .letter-wrapper .letter-content .letter-footer .letter-org-address {
+  position: absolute;
+  left: 141mm;
+  top: -36mm;
+  width: 100%;
+  height: auto;
+  margin-left: 15mm;
+  margin-right: 15mm;
+  font-size: 13pt;
+}
