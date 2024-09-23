@@ -36,12 +36,12 @@ body .letter-wrapper .topbar {
 }
 
 body .letter-wrapper .rhombus {
-  width: 10mm; /* Adjust width as needed */
-  height: 10mm; /* Adjust height as needed */
-  background-color: white; /* Rhombus color */
+  width: 10mm; 
+  height: 10mm;
+  background-color: white; 
   position: absolute;
-  transform: rotate(45deg); /* Rotate to make a rhombus */
-  border-radius: 2mm; /* Adjust border radius */
+  transform: rotate(45deg); 
+  border-radius: 2mm; 
   top: 5mm;
   left: 88mm;
 }
